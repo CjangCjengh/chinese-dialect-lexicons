@@ -3,7 +3,7 @@
 |File|Dialect|Content|
 |----|----|----|
 |zaonhe|上海话|6910 charaters and 149764 words|
-|jyutjyu|广东话|16955 characters and 37998 words|
+|jyutjyu|广东话|19782 characters and 63531 words|
 |suzhou|苏州话|8615 characters and 11617 words|
 |wuxi|无锡话|5047 characters and 8466 words|
 |hangzhou|杭州话|4450 characters and 10838 words|
