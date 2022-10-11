@@ -27,9 +27,12 @@
 |xiaoshan|萧山话|4807 characters|
 |zhenru|真如话|3473 characters|
 |youbu|游埠话|4558 characters|
+|suichang|遂昌话|4509 characters|
 # Reference
 [https://www.wugniu.com/](https://www.wugniu.com/)
 
 [https://github.com/MaigoAkisame/MCPDict](https://github.com/MaigoAkisame/MCPDict)
 
 [https://github.com/edward-martyr/rime-yahwe_zaonhe](https://github.com/edward-martyr/rime-yahwe_zaonhe)
+
+[https://github.com/open-dict-data/ipa-dict](https://github.com/open-dict-data/ipa-dict)
