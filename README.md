@@ -7,7 +7,7 @@
 |suzhou|苏州话|8615 characters and 11617 words|
 |wuxi|无锡话|5047 characters and 8466 words|
 |hangzhou|杭州话|4450 characters and 10838 words|
-|ningbo|宁波话|1083 characters and 10021 words|
+|ningbo|宁波话|17595 characters and 106836 words|
 |yixing|宜兴话|5358 characters and 2404 words|
 |xiashi|硖石话|283 characters and 2144 words|
 |wenzhou|温州话|5345 characters|
